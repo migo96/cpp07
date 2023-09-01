@@ -1,7 +1,7 @@
 NAME = a.out
 
-SRCS = main.cpp Convert.cpp
-OBJS = main.o Convert.o
+SRCS = main.cpp
+OBJS = main.o
 
 CXX = c++ -Wall -Wextra -Werror -std=c++98
 
